@@ -95,43 +95,8 @@ This dashboard enables businesses to:
 
 ## 📷 Dashboard Preview
 
-
-Example:
-
 ![Overview](images/Overview.png)
 ![Conversion Details](images/Conversion%20Details.png)
 ![Social Media Details](images/Social%20Media%20Details.png)
 ![Customer Review Details](images/Customer%20Review%20Details.png)
 
-
----
-
-## 📁 Repository Structure
-
-```
-Marketing-Dashboard
-│
-├── Marketing.pbix
-├── Sample_Data.xlsx
-├── Dashboard.png
-├── README.md
-```
-
----
-
-## 🚀 Future Improvements
-
-- Forecasting using DAX
-- Customer Segmentation
-- Marketing Funnel Analysis
-- Predictive Analytics
-- Advanced KPI Tracking
-
----
-
-## 👨‍💻 Author
-
-**Mohamed Moammer**
-
-- LinkedIn: www.linkedin.com/in/mohamed-moammer
-- GitHub: https://github.com/YourUsername
