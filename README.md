@@ -95,11 +95,14 @@ This dashboard enables businesses to:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots here
 
 Example:
 
-![Dashboard](images/Overview.png)
+![Overview](images/Overview.png)
+![Conversion Details](images/Conversion Details.png)
+![Social Media Details](images/Social Media Details.png)
+![Customer Review Details](images/Customer Review Details.png)
+
 
 ---
 
