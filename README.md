@@ -99,7 +99,7 @@ This dashboard enables businesses to:
 
 Example:
 
-![Dashboard](Dashboard.png)
+![Dashboard](images/Overview.png)
 
 ---
 
