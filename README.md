@@ -1,4 +1,4 @@
-# 📊 Marketing Performance Dashboard | Power BI
+# Marketing Analysis Dashboard | SQL + Power BI
 
 An interactive Power BI dashboard designed to monitor and analyze marketing performance through key business metrics and visual insights. The dashboard helps stakeholders evaluate campaign effectiveness, identify trends, and support data-driven decision-making.
 
