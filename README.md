@@ -24,9 +24,8 @@ The report enables users to:
 - Power BI
 - Power Query
 - DAX
-- Microsoft Excel
 - Data Modeling
-
+- SQL
 ---
 
 ## 📈 Key Performance Indicators (KPIs)
