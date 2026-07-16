@@ -99,9 +99,9 @@ This dashboard enables businesses to:
 Example:
 
 ![Overview](images/Overview.png)
-![Conversion Details](images/Conversion Details.png)
-![Social Media Details](images/Social Media Details.png)
-![Customer Review Details](images/Customer Review Details.png)
+![Conversion Details](images/Conversion%20Details.png)
+![Social Media Details](images/Social%20Media%20Details.png)
+![Customer Review Details](images/Customer%20Review%20Details.png)
 
 
 ---
